@@ -2,7 +2,7 @@
 
 # Project Name
 
-> Ruby on Rails - Blog APp
+> Ruby on Rails - Blog App
 
 creating a blog system using
 - Models, Views, and Controllers (MVC)
