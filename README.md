@@ -2,9 +2,12 @@
 
 # Blog App
 
-> Ruby on Rails - Blog App
+![screenshot](app/assets/images/screenshot.png)
 
-creating a blog system using
+## About the project
+
+Getting used to MVC structure, creating a blog app from scratch using ruby on rails, and working with associations, validations, models, helpers, and views.
+
 - Models, Views, and Controllers (MVC)
 - Data Structures & Relationships
 - Routing
@@ -30,6 +33,7 @@ creating a blog system using
 - run `bundle install`
 - run `yarn install`
 - run `rails server`
+- run in the browser `http://localhost:3000/articles`
 
 ### Install
 
